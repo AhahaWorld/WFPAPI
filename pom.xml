@@ -8,7 +8,7 @@
     <artifactId>wft-api</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <name>wft-api</name>
+    <name>wfp-api</name>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
